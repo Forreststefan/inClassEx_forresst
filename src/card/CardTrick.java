@@ -58,8 +58,8 @@ public class CardTrick {
         
         // add one luckcard hard code 2,clubs
         Card luckyCard= new Card();
-        luckyCard.setValue(2);
-        luckyCard.setSuit("clubs");
+        luckyCard.setValue(7);
+        luckyCard.setSuit("diamonds");
         System.out.println(luckyCard);
     }
     
