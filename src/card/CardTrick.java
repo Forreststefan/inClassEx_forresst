@@ -51,6 +51,7 @@ public class CardTrick {
                 break;
                 }}
         //Then report the result here
+        //Did this step already, adding a comment to show stages for STEP 7
         if(found){
         System.out.println("Your card is in the MAGIC HAND!");}
         else{
